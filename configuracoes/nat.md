@@ -1,5 +1,3 @@
-# Conteúdo do arquivo nat.md
-nat_md = """
 # Configuração de NAT no pfSense
 
 ## Objetivo
