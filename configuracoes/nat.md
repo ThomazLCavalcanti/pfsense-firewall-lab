@@ -33,9 +33,3 @@ Veja `imagens/regra_firewall.png` e `imagens/openvpn_conexao.png` para visualiza
 - NAT de entrada deve sempre ser restrito às portas necessárias.
 - O uso de aliases facilita manutenção de regras.
 """
-
-# Criar arquivo
-nat_path = Path("/mnt/data/nat.md")
-nat_path.write_text(nat_md)
-
-nat_path.name
