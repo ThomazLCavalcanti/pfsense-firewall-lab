@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+imagens/*.tmp.*
+imagens/*.bak.*
+testes/scripts/*.out
+testes/scripts/*.pcap
